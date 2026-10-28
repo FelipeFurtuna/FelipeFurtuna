@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**FelipeFurtuna/FelipeFurtuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou o Felipe Furtuna
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software na Universidade Positivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atualmente estudando **Java** e desenvolvimento Back-end, com foco em lógica de programação e construção de projetos práticos.
+
+🚀 Estou desenvolvendo meus conhecimentos em métodos, estruturas de controle, Git e GitHub. Meu próximo passo é aprofundar os estudos em Programação Orientada a Objetos.
+
+## 🛠️ Tecnologias e ferramentas
+
+- Java
+- Git e GitHub
+- IntelliJ IDEA
+- SQL (em aprendizado)
+
+## 📂 Meus projetos
+
+- [Calculadora em Java](https://github.com/FelipeFurtuna/calculadora-java)
+- [Simulador Bancário em Java](https://github.com/FelipeFurtuna/simulador-bancario-java)
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/felipe-furtuna/)
